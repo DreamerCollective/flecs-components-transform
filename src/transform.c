@@ -1,6 +1,6 @@
 #define FLECS_COMPONENTS_TRANSFORM_IMPL
 
-#include <flecs_components_transform.h>
+#include <flecs/flecs-components-transform/include/flecs_components_transform.h>
 
 ECS_COMPONENT_DECLARE(EcsTransform2);
 ECS_COMPONENT_DECLARE(EcsTransform3);

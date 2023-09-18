@@ -1,7 +1,7 @@
 #ifndef FLECS_COMPONENTS_TRANSFORM_H
 #define FLECS_COMPONENTS_TRANSFORM_H
 
-#include <flecs-components-transform/bake_config.h>
+#include <flecs/flecs-components-transform/include/flecs-components-transform/bake_config.h>
 
 // Reflection system boilerplate
 #undef ECS_META_IMPL
